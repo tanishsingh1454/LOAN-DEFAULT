@@ -1,6 +1,3 @@
-Here’s your complete **Power BI Project Report** for **Loan Default Analysis Dashboard** — written in the same clear, structured, and professional style used in your earlier Power BI reports 👇
-
----
 
 # 💳 **Loan Default Power BI Dashboard**
 
